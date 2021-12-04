@@ -1,0 +1,4 @@
+Ktrampilan
+-membina repositry
+-setempat bangunkan brasnch
+-Gabungkan branch
