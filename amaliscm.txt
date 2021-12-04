@@ -1,0 +1,4 @@
+Ujian Amali Source Kod Management
+- Github dan Git
+- Makmal komputer 1
+-Bengkel teknologi Perisian pengaturcaraan
